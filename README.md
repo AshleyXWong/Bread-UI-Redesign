@@ -1,10 +1,6 @@
 # Bread-UI-Redesign
 Took bread wikipedia page for bread and redesigned it using AdobeXD
 
-## Wireframes 
-### Mobile
-
-
 ## Graphic Design
 ### Mobile Navigation from Ingredients Page
 <img width="291" alt="Screen Shot 2021-02-27 at 1 30 48 PM" src="https://user-images.githubusercontent.com/8938974/109400737-50ff0b80-7918-11eb-932b-0f8a5af6df91.png">
